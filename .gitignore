@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
+=======
+>>>>>>> 69e0fb4 (Initial commit of Twitch Chat TUI)
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -19,7 +22,25 @@
 
 # Go workspace file
 go.work
+<<<<<<< HEAD
 go.work.sum
 
 # env file
 .env
+=======
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Config files with sensitive data
+config.yaml
+.env
+
+# Binary output
+twitch_chat
+bin/
+dist/ 
+>>>>>>> 69e0fb4 (Initial commit of Twitch Chat TUI)

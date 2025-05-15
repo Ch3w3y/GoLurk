@@ -1,0 +1,14 @@
+twitch:
+  username: "your_username"
+  oauth_token: "oauth:your_token_here"
+
+channels:
+  - "twitchdev"
+  - "twitchpresents"
+  - "twitchgaming"
+  - "twitchsports"
+
+ui:
+  theme: "default"
+  use_ascii_emotes: true
+  max_messages_buffer: 500 

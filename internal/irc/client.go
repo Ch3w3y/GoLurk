@@ -3,7 +3,7 @@ package irc
 import (
 	"strings"
 
-	"github.com/daryn/twitch_chat_tui/internal/ui"
+	"github.com/Ch3w3y/GoLurk/internal/ui"
 	"github.com/gempir/go-twitch-irc/v4"
 )
 

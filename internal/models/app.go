@@ -1,9 +1,9 @@
 package models
 
 import (
-	"github.com/daryn/twitch_chat_tui/internal/config"
-	"github.com/daryn/twitch_chat_tui/internal/irc"
-	"github.com/daryn/twitch_chat_tui/internal/ui"
+	"github.com/Ch3w3y/GoLurk/internal/config"
+	"github.com/Ch3w3y/GoLurk/internal/irc"
+	"github.com/Ch3w3y/GoLurk/internal/ui"
 )
 
 // App represents the application state
